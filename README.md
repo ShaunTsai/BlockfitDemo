@@ -1,2 +1,2 @@
 # BlockfitDemo
-the former version for blockfit during 201 8INFORMS hackathon
+the former version for blockfit during 2018 INFORMS hackathon
